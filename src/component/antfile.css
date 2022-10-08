@@ -1,0 +1,65 @@
+
+@import '~antd/dist/antd.css';
+
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+
+  #inputSearch {
+    border-radius: 30px;
+  }
+
+  .ant-table-thead .ant-table-cell {
+    font-weight: bold;
+  }
+
+  .ant-menu-item-group-title {
+    width: 304px;
+    height: 19px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #B8BABC;
+  }
+
+ #loginBoxStyle1 {
+  width: 350px;
+  height: 553px;
+  background: #FFFFFF;
+  transform: rotateX(31deg) rotateY(30deg) rotateZ(75deg);
+  transform-style: preserve-3d;
+  border-radius: 25px;
+  box-shadow: 2px 5px 0 1px #f9f9fb, 5px 5px 90px 30px rgb(34 33 81 / 1%), 58px 98px 27px 50px rgb(34 33 81 / 25%);  
+}
+
+[data-theme='compact'] .site-navigation-steps,
+.site-navigation-steps {
+  margin-bottom: 60px;
+  box-shadow: 0px -1px 0 0 #e8e8e8 inset;
+}
+
+.ant-steps-navigation .ant-steps-item::after {
+  content: none;
+}
+
+.create-profile-form, .ant-select.create-profile-form .ant-select-selector, .ThemeInputIcon svg{
+  border-radius: 9px;
+}
