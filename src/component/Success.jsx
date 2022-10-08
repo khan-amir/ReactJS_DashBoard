@@ -66,16 +66,20 @@ const Success = ({setClient}) => {
         <div style={{
             display: 'flex',
             flexDirection: 'row',
-            marginTop: '30px'
+            marginTop: '30px',
+            flexWrap: 'wrap'
         }}>
             {/* card 1 */}
+            <div style={{
+                padding: '9px'
+            }}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 padding: '24px 24px 16px',
                 gap: '32px',
-                width: '292.8px',
+                width: '282.8px',
                 height: '326px',
                 background: '#FFFFFF',
                 boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
@@ -136,20 +140,23 @@ const Success = ({setClient}) => {
                 </div>
                 
             </div>
+            </div>
 
             {/* card 2 */}
+            <div style={{
+                padding: '9px'
+            }}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 padding: '24px 24px 16px',
                 gap: '32px',
-                width: '292.8px',
+                width: '282.8px',
                 height: '326px',
                 background: '#FFFFFF',
                 boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
-                borderRadius: '12px',
-                marginLeft: '25px'
+                borderRadius: '12px'
             }}>
                 <div style={{
                     display:'flex',
@@ -206,19 +213,22 @@ const Success = ({setClient}) => {
                 </div>
                 
             </div>
+            </div>
             {/* card 3 */}
+            <div style={{
+                padding: '9px'
+            }}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 padding: '24px 24px 16px',
                 gap: '32px',
-                width: '292.8px',
+                width: '282.8px',
                 height: '326px',
                 background: '#FFFFFF',
                 boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
-                borderRadius: '12px',
-                marginLeft: '25px'
+                borderRadius: '12px'
             }}>
                 <div style={{
                     display:'flex',
@@ -280,19 +290,22 @@ const Success = ({setClient}) => {
                 </div>
                 
             </div>
+            </div>
             {/* card 4 */}
+            <div style={{
+                padding: '9px'
+            }}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 padding: '24px 24px 16px',
                 gap: '32px',
-                width: '292.8px',
+                width: '282.8px',
                 height: '326px',
                 background: '#F5F5F5',
                 boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
-                borderRadius: '12px',
-                marginLeft: '25px'
+                borderRadius: '12px'
             }}>
                 <div style={{
                     display:'flex',
@@ -352,20 +365,22 @@ const Success = ({setClient}) => {
                 </div>
                 
             </div>
+            </div>
             {/* card 5*/}
-            
+            <div style={{
+                padding: '9px'
+            }}>
             <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 padding: '24px 24px 16px',
                 gap: '32px',
-                width: '292.8px',
+                width: '282.8px',
                 height: '326px',
                 background: '#F5F5F5',
                 boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
-                borderRadius: '12px',
-                marginLeft: '25px'
+                borderRadius: '12px'
             }}>
                 <div style={{
                     display:'flex',
@@ -424,6 +439,7 @@ const Success = ({setClient}) => {
                     }}>View All</label>
                 </div>
                 
+            </div>
             </div>
         </div>
       </>
