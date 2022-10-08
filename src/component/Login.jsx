@@ -6,10 +6,6 @@ import React from 'react';
 import './antfile.css'
 
 const handleLogin = async (credentials) => {
-// var data = JSON.stringify({
-//     "email": "eve.holt@reqres.in",
-//     "password": "5cityslicka"
-//   });
 
   var data = JSON.stringify(credentials);
   
