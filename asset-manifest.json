@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khan-amir/ReactJS_DashBoard/static/css/main.1e027adc.css",
+    "main.js": "/khan-amir/ReactJS_DashBoard/static/js/main.ecd6e15c.js",
+    "index.html": "/khan-amir/ReactJS_DashBoard/index.html",
+    "main.1e027adc.css.map": "/khan-amir/ReactJS_DashBoard/static/css/main.1e027adc.css.map",
+    "main.ecd6e15c.js.map": "/khan-amir/ReactJS_DashBoard/static/js/main.ecd6e15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e027adc.css",
+    "static/js/main.ecd6e15c.js"
+  ]
+}
