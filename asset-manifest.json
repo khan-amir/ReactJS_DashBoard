@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_deskboard_app/static/css/main.1e027adc.css",
-    "main.js": "/react_deskboard_app/static/js/main.ecd6e15c.js",
-    "index.html": "/react_deskboard_app/index.html",
-    "main.1e027adc.css.map": "/react_deskboard_app/static/css/main.1e027adc.css.map",
-    "main.ecd6e15c.js.map": "/react_deskboard_app/static/js/main.ecd6e15c.js.map"
+    "main.css": "/ReactJS_DashBoard/static/css/main.1e027adc.css",
+    "main.js": "/ReactJS_DashBoard/static/js/main.ecd6e15c.js",
+    "index.html": "/ReactJS_DashBoard/index.html",
+    "main.1e027adc.css.map": "/ReactJS_DashBoard/static/css/main.1e027adc.css.map",
+    "main.ecd6e15c.js.map": "/ReactJS_DashBoard/static/js/main.ecd6e15c.js.map"
   },
   "entrypoints": [
     "static/css/main.1e027adc.css",
